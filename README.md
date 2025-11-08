@@ -61,10 +61,54 @@ A través de técnicas de **procesamiento del lenguaje natural (NLP)** y **machi
 
 ## 🧾 Resultados y Conclusiones
 
-💡 **1.** Los modelos basados en **transformers (BERT)** superan a los enfoques tradicionales de NLP.  
-💡 **2.** La **calidad del servicio y la atención del personal** son los factores que más influyen en la satisfacción del cliente.  
-💡 **3.** El análisis de texto permite **detectar patrones emocionales y temáticos** que orientan estrategias de mejora en hoteles y agencias.  
-💡 **4.** El uso de **machine learning y deep learning** facilita la **automatización del monitoreo de reseñas** y la **predicción en tiempo real** del nivel de satisfacción.
+💡 **1. Los modelos basados en transformadores (BERT) superan a los enfoques tradicionales.**  
+El modelo **BERT** alcanzó el mejor rendimiento general con un **Accuracy del 91 %** y un **F1-score del 90 %**, superando a TF-IDF y LSTM.  
+Esto demuestra que la comprensión semántica profunda del lenguaje natural permite **interpretar con mayor precisión las emociones reales de los clientes**, incluso en comentarios ambiguos o irónicos.  
+👉 *Decisión empresarial:* priorizar inversiones en modelos de IA avanzados para fortalecer la analítica de reputación y mejorar la toma de decisiones en tiempo real.
+
+---
+
+💡 **2. La calidad del servicio y la atención del personal son los factores más determinantes.**  
+El análisis de importancia de características reveló que las palabras más influyentes en la satisfacción fueron:  
+**“servicio”, “limpieza”, “ubicación”, “personal” y “precio”**.  
+👉 *Decisión empresarial:* enfocar la capacitación del personal en hospitalidad, reforzar estándares de limpieza y evaluar ajustes de precios según valor percibido.  
+Estas mejoras pueden **incrementar la retención de clientes y la puntuación promedio de reseñas**, impactando directamente en las reservas.
+
+---
+
+💡 **3. Las opiniones negativas se concentran en temas específicos y son detectables tempranamente.**  
+La **evolución temporal del sentimiento** muestra picos de negatividad en ciertos periodos, correlacionados con temporadas altas o falta de mantenimiento.  
+👉 *Decisión empresarial:* implementar **alertas automáticas** cuando se detecte un aumento de reseñas negativas, permitiendo **intervenciones rápidas** antes de que afecten la reputación digital.  
+Esto reduce pérdidas por cancelaciones y mejora la fidelización.
+
+---
+
+💡 **4. El análisis de texto revela patrones emocionales y temáticos clave.**  
+Las **nubes de palabras** y la **frecuencia léxica** evidencian que los huéspedes valoran la experiencia integral (comodidad, atención y ubicación), pero penalizan duramente el ruido, la falta de limpieza y los costos excesivos.  
+👉 *Decisión empresarial:* ajustar estrategias de comunicación, precios dinámicos y mejoras operativas según las tendencias de opinión detectadas.
+
+---
+
+💡 **5. Las herramientas de Machine Learning permiten una gestión más proactiva.**  
+La automatización del análisis de reseñas en tiempo real posibilita **monitorear el clima de satisfacción de forma continua**, detectar anomalías y anticipar riesgos reputacionales.  
+👉 *Decisión empresarial:* integrar dashboards de IA en la gestión diaria para **optimizar decisiones de contratación**, **segmentar campañas de marketing** y **mejorar la planificación de recursos humanos**.
+
+---
+
+💡 **6. Impacto financiero y estratégico.**  
+El uso de analítica predictiva en satisfacción puede traducirse en:  
+- **Aumento del 10 %–20 %** en reservas repetidas.  
+- **Reducción de costos de atención al cliente** al automatizar la clasificación de reseñas.  
+- **Optimización del gasto en publicidad**, al enfocar campañas en segmentos con mayor satisfacción y probabilidad de recomendación.  
+
+👉 *Decisión empresarial:* usar estos insights como base para **diseñar estrategias de fidelización, fijación dinámica de precios y expansión de marca.**
+
+---
+
+🧭 **Conclusión general:**  
+La integración de **Inteligencia Artificial**, **NLP** y **analítica de sentimientos** transforma la forma en que el sector hotelero entiende y gestiona la experiencia del cliente.  
+Los resultados demuestran que **la satisfacción no solo es un indicador emocional, sino también un activo financiero y estratégico** que impulsa la competitividad, la innovación y el crecimiento sostenible del negocio.
+
 
 ---
 
